@@ -18,14 +18,13 @@ function about() {
         <article className="about-info">
           <h3>explore the difference</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            We are a new founded travel agency with the goal to make 
+            the process of travelling easier and more enjoyable for you. 
+            Scroll down to Our Services to see how we do that.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur
-            quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
-            unde dolor?
+            We are constantly searching for new adventures and hope to 
+            create the most laid back holidays for you. Have a great trip!
           </p>
           <a href="#about" className="btn">read more</a>
         </article>
