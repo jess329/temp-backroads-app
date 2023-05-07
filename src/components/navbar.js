@@ -17,7 +17,7 @@ function navbar() {
             {pageLinks.map((link) => {
               return (
                 <li>
-                  <a href={link.href} className={link.class} target="_blank" rel="noreferrer" >{link.text}</a>
+                  <a href={link.href} className={link.class}  >{link.text}</a>
                 </li>
               ) 
             })}
@@ -28,7 +28,7 @@ function navbar() {
             {socialLinks.map((link) => {
               return (
                 <li>
-                  <a href={link.href} rel="noreferrer" className={link.classLink}>
+                  <a href={link.href} target="_blank" rel="noreferrer" className={link.classLink}>
                     <i className={link.classIcon}></i>
                   </a>
                 </li>
